@@ -14,7 +14,7 @@ AF News is a Flutter-based mobile application that delivers the latest news to u
 
 #Installation
 1. Clone the Repository:
-   - git clone https://github.com/yourusername/af-news-app.git
+   - git clone  https://github.com/SoulStorm781/AF_News_App.git
 2. Navigate to the Project Directory:
    - cd af-news-app
 3. Install Dependencies:
