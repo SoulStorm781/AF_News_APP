@@ -1,5 +1,7 @@
 #AF News App
+
 #Overview
+
 AF News is a Flutter-based mobile application that delivers the latest news to users in a streamlined and user-friendly format. This app connects to a news API to fetch real-time news and offers an engaging UI that keeps users up-to-date on current events.
 
 #Features
